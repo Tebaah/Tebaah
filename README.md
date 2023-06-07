@@ -9,10 +9,10 @@ Entre las cosas que me gustan y que estoy aprendiendo encontraras:
 - Lenguaje de programación C#
 - Desarrollo Web, HTML y CSS
 - GIT y GitHub
-- muchas más !!!!
+- y mucho más !!!!
 
 
-Pronto no novedades!!
+Pronto novedades!!
 
 <!--
 **Tebaah/Tebaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
