@@ -1,14 +1,18 @@
 ### TEBAAH - E2ND 👋
 
 
-Aqui encontraras todos los proyectos que ire realizando. Esto sera el inicio de mi carrera y espero ir contribuyendo día a día. 
+Aqui encontraras todos los proyectos que ire realizando.
 
-Entre las cosas que estoy aprendiendo encontraras:
+Entre las cosas que me gustan y que estoy aprendiendo encontraras:
 
 - Desarrollo de videojuegos con Unity
 - Lenguaje de programación C#
 - Desarrollo Web, HTML y CSS
 - GIT y GitHub
+- muchas más !!!!
+
+
+Pronto no novedades!!
 
 <!--
 **Tebaah/Tebaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
