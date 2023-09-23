@@ -5,14 +5,11 @@ Aqui encontraras todos los proyectos que ire realizando.
 
 Entre las cosas que me gustan y que estoy aprendiendo encontraras:
 
-- Desarrollo de videojuegos con Unity
+- Desarrollo de videojuegos con Godot y Unity
 - Lenguaje de programación C#
-- Desarrollo Web, HTML y CSS
-- GIT y GitHub
+- Contorl de versiones GIT y GitHub
 - y mucho más !!!!
 
-
-Pronto novedades!!
 
 <!--
 **Tebaah/Tebaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
