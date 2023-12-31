@@ -7,9 +7,6 @@ Entre las cosas que me gustan y que estoy aprendiendo encontraras:
 
 - Desarrollo de videojuegos con Godot y Unity
 - Lenguaje de programación C#
-- Contorl de versiones GIT y GitHub
-- y mucho más !!!!
-
 
 <!--
 **Tebaah/Tebaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
