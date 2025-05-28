@@ -1,44 +1,80 @@
-# Bienvenido a mi página de GitHub
+# 🎮 ¡Hola, soy Tebaah!
 
-<div style="display: flex; justify-content: center;">
-    <img src="https://i.ibb.co/0ZRFKkG/godot.png" alt="godot" border="0">
-    <img src="https://i.ibb.co/N992CTx/csharp.png" alt="csharp" border="0">
-</div>
+🧠 Apasionado por la **programación de videojuegos**. Actualmente me encuentro desarrollando mi **primer proyecto 2D**, enfocado en mecánicas tipo **plataformas**, usando **Godot Engine** con **C#**.
 
-## Desarrollo de Videojuegos con Godot y CSharpp
+Mi meta es seguir aprendiendo, colaborar en proyectos y construir herramientas reutilizables que faciliten el desarrollo de videojuegos.
 
-¡Hola! Soy **Tebaah**, un apasionado del desarrollo de videojuegos utilizando Godot y C#. En esta página encontrarás proyectos, tutoriales y recursos relacionados con esta emocionante combinación.
+---
 
-### Proyectos Destacados
+# 🎮 Hi, I'm Tebaah!
 
-- [Proyecto 1](https://github.com/Tebaah/2DPlatform-Prototype-Plane): Prototipo de juego de aeronaves basado en Aerofighter.<br>
-    [Video del Proyecto 1](https://youtu.be/itYwRR3zjK0 "Video del Proyecto 1")
+🧠 Passionate about **video game programming**. I'm currently working on my **first 2D project**, focused on **platformer** mechanics, using **Godot Engine** with **C#**.
 
-### Tutoriales
+My goal is to keep learning, collaborate in projects, and build reusable tools that support game development.
 
-<!-- - [Tutorial 1](enlace-al-tutorial-1): Descripción del tutorial 1.
-- [Tutorial 2](enlace-al-tutorial-2): Descripción del tutorial 2.
-- [Tutorial 3](enlace-al-tutorial-3): Descripción del tutorial 3. -->
+---
 
-### En Desarrollo
+## 🚀 Tecnologías | Technologies
 
-- [Proyecto 2](https://github.com/Tebaah/2D-platform-classic): Prototipo de juego de plataformas en 2D basado en Mario Bros.<br>
+![Godot](https://img.shields.io/badge/Godot-2023-blue?logo=godot-engine&style=flat-square)
+![C#](https://img.shields.io/badge/C%23-Programmer-purple?logo=csharp&style=flat-square)
+![Inkscape](https://img.shields.io/badge/Inkscape-VectorGraphics-lightgrey?logo=inkscape&style=flat-square)
 
+---
 
-## Desarrollo Web con HTML, CSS y PHP
+## 🧩 Componentes Reutilizables | Reusable Components
 
-Además de mi pasión por el desarrollo de videojuegos, también tengo experiencia en el desarrollo web utilizando HTML, CSS y PHP. Aquí encontrarás algunos proyectos y recursos relacionados con este campo.
+📌 Estoy creando módulos reutilizables para proyectos en Godot, explicando su lógica y cómo integrarlos:
 
-### Proyectos Web
+- ✅ Sistema de movimiento del jugador
+- ✅ Control de disparos y niveles de ataque
+- 🔄 Máquina de estados para niveles
+- 🔧 ¡Y más por venir!
 
-<!-- - [Proyecto Web 1](enlace-al-proyecto-web-1): Breve descripción del proyecto web 1.
-- [Proyecto Web 2](enlace-al-proyecto-web-2): Breve descripción del proyecto web 2.
-- [Proyecto Web 3](enlace-al-proyecto-web-3): Breve descripción del proyecto web 3. -->
+![2D Games](https://img.shields.io/badge/Focus-2D%20Games-orange?style=flat-square)
+![Game Dev](https://img.shields.io/badge/Game_Dev-Pixel%20%26%20Abstract-blueviolet?style=flat-square)
+![Components](https://img.shields.io/badge/Reusables-Modular%20Systems-success?style=flat-square)
 
-### Recursos
+---
 
-<!-- - [Recurso 1](enlace-al-recurso-1): Descripción del recurso 1.
-- [Recurso 2](enlace-al-recurso-2): Descripción del recurso 2.
-- [Recurso 3](enlace-al-recurso-3): Descripción del recurso 3. -->
+## 📂 Proyectos | Projects
 
-¡No dudes en explorar mis proyectos y tutoriales! Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
+🛠️ **Primer videojuego en desarrollo**
+- Motor: Godot 4
+- Género: Plataformas
+- Lenguaje: C#
+
+⚠️ Próximamente estará disponible el repositorio completo con documentación.
+
+![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square)
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)
+
+---
+
+## 🎯 Objetivos | Goals
+
+- 🌱 Seguir aprendiendo programación orientada a videojuegos
+- 🤝 Colaborar para ganar experiencia real
+- 🧰 Construir herramientas y sistemas reutilizables
+- 📚 Documentar mi progreso
+
+![Learning](https://img.shields.io/badge/Learning-Always_on_it-ff69b4?style=flat-square)
+![Collaboration](https://img.shields.io/badge/Open%20to-Collaboration-brightgreen?style=flat-square)
+
+---
+
+## 🧠 Extra
+
+💬 Me encanta analizar las mecánicas detrás de los videojuegos y construir desde lo más técnico.  
+🎵 Siempre programando con buena música de fondo.
+
+---
+
+## 📫 Contacto | Contact
+
+Pronto estaré compartiendo mis redes y portafolio. Si estás interesado en colaborar, ¡no dudes en escribirme!
+
+---
+
+<!-- ¡Gracias por visitar mi perfil! -->
+
