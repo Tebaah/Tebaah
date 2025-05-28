@@ -16,7 +16,7 @@ My goal is to keep learning, collaborate in projects, and build reusable tools t
 
 ## 🚀 Tecnologías | Technologies
 
-![Godot](https://img.shields.io/badge/Godot-2023-blue?logo=godot-engine&style=flat-square)
+![Godot](https://img.shields.io/badge/Godot-4.0-blue?logo=godot-engine&style=flat-square)
 ![C#](https://img.shields.io/badge/C%23-Programmer-purple?logo=csharp&style=flat-square)
 ![Inkscape](https://img.shields.io/badge/Inkscape-VectorGraphics-lightgrey?logo=inkscape&style=flat-square)
 
